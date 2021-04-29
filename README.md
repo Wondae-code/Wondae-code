@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wondae-code
 - 👀 I’m interested in everything! actually I dunno what i like.
-- 🌱 I’m currently learning flutter or JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Rust, Regression
+- 💞️ I’m looking to collaborate on programming contest.
+- 📫 How to reach me just email me!
 
 <!---
 Wondae-code/Wondae-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
