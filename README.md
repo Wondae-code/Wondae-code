@@ -9,10 +9,8 @@ Currently, I'm working on junior android developer. there are a lot of things ne
 These are skill stacks that I did at projects. Bolds are skills that I work with.
 - **Java**, **Kotlin**, JavaScript, Python
 - **Android**, React Native
-- Spring Boot
-- React, Vue
-- Docker
-- Pytorch, Tensorflow, OpenCV
+- React
+- OpenCV
 <!---
 Wondae-code/Wondae-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
